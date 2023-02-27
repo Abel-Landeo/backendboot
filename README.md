@@ -1,1 +1,2 @@
 # backendboot
+- Mapstruct demo
